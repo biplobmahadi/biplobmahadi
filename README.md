@@ -1,4 +1,13 @@
-### Hi there 👋
+# Biplob
+Student and learning...
+<hr>
+
+## GitHub Stats
+
+![Biplob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biplobmahadi&show_icons=true&private_count=true&theme=radical&include_all_commits=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biplobmahadi&layout=compact)]()
+
+<hr>
 
 <!--
 **biplobmahadi/biplobmahadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
