@@ -4,8 +4,8 @@ Student and learning...
 
 ## GitHub Stats
 
-![Biplob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biplobmahadi&show_icons=true&private_count=true&theme=radical&include_all_commits=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biplobmahadi&layout=compact)]()
+![Biplob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biplobmahadi&show_icons=true&private_count=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplobmahadi&layout=compact)](https://github.com/biplobmahadi/github-readme-stats)
 
 <hr>
 
