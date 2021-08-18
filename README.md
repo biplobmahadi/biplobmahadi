@@ -1,5 +1,5 @@
 # Biplob
-Student and learning...
+Software Engineer and learning...
 <hr>
 
 ## GitHub Stats
