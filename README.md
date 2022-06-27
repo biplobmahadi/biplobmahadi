@@ -1,6 +1,5 @@
 # Biplob
 Software Engineer and learning...
-<hr>
 
 ## GitHub Stats
 
@@ -14,4 +13,3 @@ Software Engineer and learning...
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biplobmahadi&repo=vite-with-necessary-packages" />
 </a>
 
-<hr>
