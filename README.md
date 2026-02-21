@@ -1,5 +1,5 @@
 # Biplob
-Software Engineer at Kaz Software Ltd.
+Senior Software Engineer at Kaz Software Ltd.
 
 ## GitHub Stats
 
